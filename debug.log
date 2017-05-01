@@ -1,0 +1,52 @@
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: [object HTMLHtmlElement]", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: [object HTMLHtmlElement]", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: [object Object]", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: [object Object]", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: [object Object]", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: [object Object]", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/093309:INFO:CONSOLE(23)] "Edge.$$ - no current symbol for: body", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js (23)
+[0520/180654:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0520/180654:WARNING:dns_config_service_win.cc(599)] Failed to read DnsConfig.
+[0520/180656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0520/180656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0520/180700:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0520/180700:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0520/180702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0520/180702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0520/182914:INFO:CONSOLE(1447)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1309:46)
+    at d.Symbol.seekInTool (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js:109:196)
+    at about:blank:0:15", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js (1447)
+[0520/182914:INFO:CONSOLE(1447)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1309:46)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1153:25)
+    at about:blank:0:15", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js (1447)
+[0520/182915:INFO:CONSOLE(1447)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1309:46)
+    at d.Symbol.seekInTool (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js:109:196)
+    at about:blank:0:15", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js (1447)
+[0520/182915:INFO:CONSOLE(1447)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1309:46)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1153:25)
+    at about:blank:0:15", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js (1447)
+[0520/182915:INFO:CONSOLE(1447)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1309:46)
+    at d.Symbol.seekInTool (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/edge.authoring.3.0.0.min.js:109:196)
+    at about:blank:0:15", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js (1447)
+[0520/182915:INFO:CONSOLE(1447)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1309:46)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js:1153:25)
+    at about:blank:0:15", source: http://localhost:54321/_DRIVE_C_EVIRD_/Users/Owner/Desktop/nnd%20promotion%20page/edge_includes/an.canvas.overlay.js (1447)
+[0520/182915:ERROR:ipc_channel_win.cc(401)] pipe error: 232
